@@ -2,7 +2,7 @@ Data and scripts for ME25018
 ====
 
 ## Description
-This repository provides data and scripts for ME25018.
+This repository provides data and scripts for [ME25018](https://doi.org/10.1264/jsme2.ME25018).
   
 ## Usage
 The data folder includes Supplemental Table 2.  
